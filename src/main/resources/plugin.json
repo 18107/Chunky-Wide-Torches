@@ -1,0 +1,6 @@
+{
+  "name": "WideTorches",
+  "main": "se.id107.chunky.plugin.BlockMod",
+  "version": "1.0",
+  "targetVersion": "1.4.5"
+}
